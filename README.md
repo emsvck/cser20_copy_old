@@ -14,7 +14,7 @@
 
     <!-- custom css file link  -->
     <link rel="stylesheet" href="style.css">
-    <link rel="shortcut icon" href="img.ico">
+    <link rel="icon" href="img.ico">
 
 </head>
 <body>
