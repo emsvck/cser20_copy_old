@@ -117,7 +117,7 @@
                 <i class="fas fa-star"></i>
                 <i class="fas fa-star"></i>
             </div>
-            <a href="csesecondyearr20.html" class="title">SECOND YEAR CSE</a>
+            <a href="cser20secondyear.html" class="title">SECOND YEAR CSE</a>
             <p>GOTO SECOND YEAR R20 REGULATIONS BY CLICK THE GOTO SECOND YEAR BUTTON</p>
             <div class="info">
                 <h3> <i class="far fa-clock"></i>NOT AVAILABLE </h3>
