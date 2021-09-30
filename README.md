@@ -108,7 +108,7 @@
 
     <div class="box">
         <img src="2year.jpg" alt="">
-	    <a href="cser20secondyear.html" class="title"> <h3 class="price">GOTO SECOND YEAR</h3></a>
+	    <a href="cser201secondyear.html" class="title"> <h3 class="price">GOTO SECOND YEAR</h3></a>
         <div class="content">
             <div class="stars">
                 <i class="fas fa-star"></i>
