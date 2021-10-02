@@ -120,7 +120,7 @@
             <a href="TimerCSE r20.html" class="title">SECOND YEAR CSE</a>
             <p>GOTO SECOND YEAR R20 REGULATIONS BY CLICK THE GOTO SECOND YEAR BUTTON</p>
             <div class="info">
-                <h3> <i class="far fa-clock"></i>NOT AVAILABLE </h3>
+                <h3> <i class="far fa-clock"></i>AVAILABLE </h3>
                 <h3> <i class="far fa-calendar-alt"></i> R20 </h3>
                 <h3> <i class="fas fa-book"></i> JNTUA </h3>
             </div>
