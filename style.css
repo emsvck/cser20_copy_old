@@ -1,5 +1,7 @@
 :root{
-    --gradient:linear-gradient(90deg, #f1c40f, #f39c13);
+ --gradient:linear-gradient(80deg, CYAN, BLUE);
+/* --gradient:linear-gradient(90deg, #f1c40f, #f39c13); */
+
 }
 
 *{
